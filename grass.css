@@ -53,6 +53,7 @@ node.SubNode {
 }
 /*******************************************************/
 /* Styling for schema topology graphs */
+
 node.Table {
   diameter: 70px;
   color: #F8C7CC;
