@@ -62,27 +62,27 @@ node.Table {
 }
 
 node.Attribute {
+  diameter: 70px;
   color: #81A684;
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{name}';
-  diameter: 70px;
 }
 
 node.Query {
+  diameter: 70px;
   color: #466060;
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{name}';
-  diameter: 70px;
 }
 
 node.Schema {
+  diameter: 70px;
   color: #57886C;
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{name}';
-  diameter: 70px;
 }
 /*******************************************************/
 
