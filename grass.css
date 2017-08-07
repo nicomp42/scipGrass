@@ -51,13 +51,14 @@ node.SubNode {
   caption: '{Key}';
   diameter: 50px;
 }
-
+/*******************************************************/
+/* Styling for schema topology graphs */
 node.Table {
   color: #F8C7CC;
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{name}';
-  diameter: 60px;
+  diameter: 70px;
 }
 
 node.Attribute {
@@ -65,7 +66,7 @@ node.Attribute {
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{name}';
-  diameter: 60px;
+  diameter: 70px;
 }
 
 node.Query {
@@ -73,7 +74,7 @@ node.Query {
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{name}';
-  diameter: 60px;
+  diameter: 70px;
 }
 
 node.Schema {
@@ -81,7 +82,8 @@ node.Schema {
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{name}';
-  diameter: 60px;
+  diameter: 70px;
 }
+/*******************************************************/
 
 
