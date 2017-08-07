@@ -53,7 +53,7 @@ node.SubNode {
 }
 
 node.Table {
-  color: #0000FF;
+  color: #F8C7CC;
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{name}';
@@ -61,7 +61,7 @@ node.Table {
 }
 
 node.Attribute {
-  color: #007F00;
+  color: #81A684;
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{name}';
@@ -69,7 +69,7 @@ node.Attribute {
 }
 
 node.Query {
-  color: #0000FF;
+  color: #466060;
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{name}';
@@ -77,7 +77,7 @@ node.Query {
 }
 
 node.Schema {
-  color: #000000;
+  color: #57886C;
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{name}';
