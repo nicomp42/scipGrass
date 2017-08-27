@@ -26,7 +26,8 @@ relationship.has_child {
   text-color-internal: #FFFFFF;
   caption: '<type>';
 }
-
+/*******************************************************/
+/* Styling for provenance graphs */
 relationship.Provenance {
   color: #B51031;
   shaft-width: 3px;
@@ -52,7 +53,10 @@ node.SubNode {
   diameter: 50px;
 }
 /*******************************************************/
-/* Styling for schema topology graphs */
+/* Styling for these graphs:
+ 1. schema topology graphs
+ 2. process a query 
+*/
 
 node.Table {
   diameter: 70px;
