@@ -42,7 +42,7 @@ node.RootNode {
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{Key}';
-  diameter: 50px;
+  diameter: 100px;
 }
 
 node.SubNode {
@@ -50,7 +50,7 @@ node.SubNode {
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
   caption: '{Key}';
-  diameter: 50px;
+  diameter: 100px;
 }
 /*******************************************************/
 /* Styling for these graphs:
