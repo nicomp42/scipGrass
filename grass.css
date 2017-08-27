@@ -41,7 +41,8 @@ node.RootNode {
   color: #FF7FFF;
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
-  caption: '{Key}';
+/*  caption: '{Key}';  */
+  caption: '{AttributeName}';
   diameter: 100px;
 }
 
@@ -49,7 +50,8 @@ node.SubNode {
   color: #007FFF;
   border-color: #0066CC;
   text-color-internal: #FFFFFF;
-  caption: '{Key}';
+/*  caption: '{Key}';  */
+  caption: '{AttributeName}';
   diameter: 100px;
 }
 /*******************************************************/
