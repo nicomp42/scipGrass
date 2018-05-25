@@ -88,7 +88,7 @@ node.Query {
   diameter: 150px;
   color: #00FF00;
   border-color: #FFFFFF;
-  text-color-internal: #FFFFFF;
+  text-color-internal: #000000;
   caption: '{name}';
   font-size: 12px;
 }
