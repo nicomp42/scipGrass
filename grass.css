@@ -56,8 +56,8 @@ node.SubNode {
 }
 /*******************************************************/
 /* Styling for these graphs:
- 1. schema topology graphs
- 2. process a query 
+ 1. database graphs
+ 2. process a query graph
 */
 node.Foo {
   diameter: 150px;
