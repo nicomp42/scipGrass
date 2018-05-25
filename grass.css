@@ -9,8 +9,8 @@ node {
 
 relationship {
   color: #A5ABB6;
-  shaft-width: 1px;
-  font-size: 8px;
+  shaft-width: 2px;
+  font-size: 10px;
   padding: 3px;
   text-color-external: #000000;
   text-color-internal: #FFFFFF;
@@ -60,14 +60,14 @@ node.SubNode {
  2. process a query 
 */
 node.Foo {
-  diameter: 200px;
+  diameter: 150px;
   color: #FF0000;
   border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
 }
 node.Table {
-  diameter: 100px;
+  diameter: 150px;
   color: #FF0000;
   border-color: #FFFFFF;
   text-color-internal: #000000;
@@ -83,7 +83,7 @@ node.Attribute {
 }
 
 node.Query {
-  diameter: 100px;
+  diameter: 150px;
   color: #00FF00;
   border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
@@ -91,7 +91,7 @@ node.Query {
 }
 
 node.Schema {
-  diameter: 100px;
+  diameter: 150px;
   color: #0000DD;
   border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
