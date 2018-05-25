@@ -59,7 +59,13 @@ node.SubNode {
  1. schema topology graphs
  2. process a query 
 */
-
+node.Foo {
+  diameter: 200px;
+  color: #FF0000;
+  border-color: #FFFFFF;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
 node.Table {
   diameter: 200px;
   color: #FF0000;
