@@ -94,7 +94,7 @@ node.Schema {
   diameter: 150px;
   color: #0000DD;
   border-color: #FFFFFF;
-  text-color-internal: #FFFFFF;
+  text-color-internal: #000000;
   caption: '{name}';
 }
 /*******************************************************/
