@@ -72,6 +72,7 @@ node.Table {
   border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
+  font-size: 12px;
 }
 
 node.Attribute {
@@ -80,6 +81,7 @@ node.Attribute {
   border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
+  font-size: 10px;
 }
 
 node.Query {
@@ -88,6 +90,7 @@ node.Query {
   border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
+  font-size: 12px;
 }
 
 node.Schema {
@@ -96,6 +99,7 @@ node.Schema {
   border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
+  font-size: 12px;
 }
 /*******************************************************/
 
