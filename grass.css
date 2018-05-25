@@ -61,7 +61,7 @@ node.SubNode {
 */
 
 node.Table {
-  diameter: 100px;
+  diameter: 75px;
   color: #FF0000;
   border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
