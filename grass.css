@@ -62,16 +62,16 @@ node.SubNode {
 
 node.Table {
   diameter: 100px;
-  color: #F8C7CC;
-  border-color: #FF0000;
+  color: #FF0000;
+  border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
 }
 
 node.Attribute {
   diameter: 100px;
-  color: #81A684;
-  border-color: #800080;
+  color: #800080;
+  border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
 }
@@ -79,15 +79,15 @@ node.Attribute {
 node.Query {
   diameter: 100px;
   color: #00FF00;
-  border-color: #00CC;
+  border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
 }
 
 node.Schema {
   diameter: 100px;
-  color: #57886C;
-  border-color: #0000FF;
+  color: #0000FF;
+  border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
 }
