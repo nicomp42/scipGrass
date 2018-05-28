@@ -103,4 +103,22 @@ node.Schema {
 }
 /*******************************************************/
 
+/* Styling for these graphs:
+ 1. Schema Evolution impact
+*/
+node.Foop {
+  diameter: 150px;
+  color: #FF0000;
+  border-color: #FFFFFF;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
+
+node.SchemaEvolutionImpact {
+  diameter: 150px;
+  color: #888800;
+  border-color: #FFFFFF;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
 
