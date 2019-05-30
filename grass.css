@@ -58,6 +58,7 @@ node.SubNode {
 /* Styling for these graphs:
  1. database graphs
  2. process a query graph
+ Leave the Foo item in place. The first styler after this comment seems to be ignored
 */
 node.Foo {
   diameter: 150px;
