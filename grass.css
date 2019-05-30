@@ -60,8 +60,8 @@ node.SubNode {
  2. process a query graph
 */
 node.Affected_Attribute {
-  diameter: 150px;
-  color: #335511
+  diameter: 100px;
+  color: #335511;
   border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
