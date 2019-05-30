@@ -59,16 +59,16 @@ node.SubNode {
  1. database graphs
  2. process a query graph
 */
-node.Affected_Attribute {
-  diameter: 100px;
-  color: #335511;
+node.Foo {
+  diameter: 150px;
+  color: #FF0000;
   border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
 }
-node.Foo {
-  diameter: 150px;
-  color: #FF0000;
+node.Affected_Attribute {
+  diameter: 100px;
+  color: #335511;
   border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
