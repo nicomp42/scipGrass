@@ -59,6 +59,13 @@ node.SubNode {
  1. database graphs
  2. process a query graph
 */
+node.AffectedByActionQuery {
+  diameter: 150px;
+  color: #335511
+  border-color: #FFFFFF;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
 node.Foo {
   diameter: 150px;
   color: #FF0000;
