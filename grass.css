@@ -76,7 +76,7 @@ node.Affected_Attribute {
 }
 node.Table {
   diameter: 150px;
-  color: #ffffff;
+  color: #598234;
   border-color: #000000;
   text-color-internal: #000000;
   caption: '{name}';
@@ -103,7 +103,7 @@ node.Query {
 
 node.Schema {
   diameter: 150px;
-  color: #598234;
+  color: #000000;
   border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
