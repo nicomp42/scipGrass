@@ -69,7 +69,7 @@ node.Foo {
 }
 node.Affected_Attribute {
   diameter: 100px;
-  color: #800080;      /* 335511 */
+  color: #a2b9bc;
   border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
@@ -85,7 +85,7 @@ node.Table {
 
 node.Attribute {
   diameter: 100px;
-  color: #335511;
+  color: #b2ad7f;
   border-color: #FFFFFF;
   text-color-internal: #FFFFFF;
   caption: '{name}';
@@ -94,7 +94,7 @@ node.Attribute {
 
 node.Query {
   diameter: 150px;
-  color: #00FF00;
+  color: #878f99;
   border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
@@ -103,7 +103,7 @@ node.Query {
 
 node.Schema {
   diameter: 150px;
-  color: #0000DD;
+  color: #6b5b95;
   border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
