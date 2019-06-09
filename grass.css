@@ -103,8 +103,8 @@ node.Query {
 
 node.Schema {
   diameter: 150px;
-  color: #000000;
-  border-color: #FFFFFF;
+  color: #ffffff;
+  border-color: #000000;
   text-color-internal: #000000;
   caption: '{name}';
   font-size: 12px;
