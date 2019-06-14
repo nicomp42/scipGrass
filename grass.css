@@ -130,3 +130,43 @@ node.SchemaEvolutionImpact {
   caption: '{name}';
 }
 
+/*******************************************************/
+
+/* Styling for these graphs:
+ 1. Graph Comparison Results
+*/
+node.Dummy {
+  diameter: 150px;
+  color: #FF0000;
+  border-color: #FFFFFF;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
+
+node.Matched {
+  diameter: 100px;
+  color: #FF0000;
+  border-color: #FFFFFF;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
+
+node.Unmatched {
+  diameter: 100px;
+  color: #888800;
+  border-color: #FFFFFF;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
+
+relationship.Matched {
+  color: #FF0000;
+  text-color-internal: #FFFFFF;
+  shaft-width: '10px'
+}
+
+relationship.Unmatched {
+  color: #888800;
+  text-color-internal: #FFFFFF;
+  shaft-width: '20px'
+}
