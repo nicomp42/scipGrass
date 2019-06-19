@@ -162,13 +162,13 @@ node.Unmatched {
 relationship.Matched {
   color: #FF0000;
   text-color-internal: #FFFFFF;
-  shaft-width: '5px'
+  shaft-width: '3x'
 }
 
 relationship.Unmatched {
   color: #888800;
   text-color-internal: #FFFFFF;
-  shaft-width: '10px'
+  shaft-width: '6px'
 }
 
 
