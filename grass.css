@@ -74,7 +74,22 @@ node.Affected_Attribute {
   text-color-internal: #FFFFFF;
   caption: '{name}';
 }
+node.affected_attribute {
+  diameter: 100px;
+  color: #505160;
+  border-color: #FFFFFF;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
 node.Table {
+  diameter: 125px;
+  color: #598234;
+  border-color: #ffffff;
+  text-color-internal: #000000;
+  caption: '{name}';
+  font-size: 12px;
+}
+node.table {
   diameter: 125px;
   color: #598234;
   border-color: #ffffff;
@@ -92,6 +107,15 @@ node.Attribute {
   font-size: 10px;
 }
 
+node.attribute {
+  diameter: 100px;
+  color: #68829e;
+  border-color: #FFFFFF;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+  font-size: 10px;
+}
+
 node.Query {
   diameter: 125px;
   color: #aebd38;
@@ -101,7 +125,25 @@ node.Query {
   font-size: 12px;
 }
 
+node.query {
+  diameter: 125px;
+  color: #aebd38;
+  border-color: #FFFFFF;
+  text-color-internal: #000000;
+  caption: '{name}';
+  font-size: 12px;
+}
+
 node.Schema {
+  diameter: 125px;
+  color: #ffffff;
+  border-color: #000000;
+  text-color-internal: #000000;
+  caption: '{name}';
+  font-size: 12px;
+}
+
+node.schema {
   diameter: 125px;
   color: #ffffff;
   border-color: #000000;
