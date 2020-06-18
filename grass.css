@@ -166,7 +166,7 @@ node.etl_step {
   color: #00AAAA;
   border-color: #000000;
   text-color-internal: #000000;
-  caption: '{name}';
+  caption: '{stepname}';
   font-size: 12px;
 }
 
