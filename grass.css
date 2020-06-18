@@ -151,6 +151,17 @@ node.schema {
   caption: '{name}';
   font-size: 12px;
 }
+
+node.view {
+  diameter: 125px;
+  color: #0000AA;
+  border-color: #000000;
+  text-color-internal: #000000;
+  caption: '{name}';
+  font-size: 12px;
+}
+
+
 /*******************************************************/
 
 /* Styling for these graphs:
