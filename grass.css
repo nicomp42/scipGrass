@@ -161,6 +161,14 @@ node.view {
   font-size: 12px;
 }
 
+node.etl_step {
+  diameter: 125px;
+  color: #00AAAA;
+  border-color: #000000;
+  text-color-internal: #000000;
+  caption: '{name}';
+  font-size: 12px;
+}
 
 /*******************************************************/
 
