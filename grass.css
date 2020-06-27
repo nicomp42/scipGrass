@@ -147,7 +147,7 @@ node.Schema {
 node.schema {
   diameter: 100px;
   color: #e6e6ea;
-  border-color: #000000;
+  border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
   font-size: 12px;
@@ -155,7 +155,7 @@ node.schema {
 
 node.view {
   diameter: 100px;
-  color: #6497b1;
+  color: #005b96;
   border-color: #000000;
   text-color-internal: #000000;
   caption: '{name}';
