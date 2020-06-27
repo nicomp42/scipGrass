@@ -64,14 +64,14 @@ node.Foo {
   diameter: 150px;
   color: #FF0000;
   border-color: #FFFFFF;
-  text-color-internal: #FFFFFF;
+  text-color-internal: #000000;
   caption: '{name}';
 }
 node.Affected_Attribute {
   diameter: 100px;
   color: #505160;
   border-color: #FFFFFF;
-  text-color-in
+  text-color-internal: #000000;
   ternal: #FFFFFF;
   caption: '{name}';
 }
@@ -79,12 +79,12 @@ node.affected_attribute {
   diameter: 100px;
   color: #505160;
   border-color: #FFFFFF;
-  text-color-internal: #FFFFFF;
+  text-color-internal: #000000;
   caption: '{name}';
 }
 node.Table {
   diameter: 100px;
-  color: #598234;
+  color: #fe4a49;
   border-color: #ffffff;
   text-color-internal: #000000;
   caption: '{name}';
@@ -92,7 +92,7 @@ node.Table {
 }
 node.table {
   diameter: 100px;
-  color: #598234;
+  color: #fe4a49;
   border-color: #ffffff;
   text-color-internal: #000000;
   caption: '{name}';
@@ -101,25 +101,25 @@ node.table {
 
 node.Attribute {
   diameter: 100px;
-  color: #68829e;
+  color: #2ab7ca;
   border-color: #FFFFFF;
-  text-color-internal: #FFFFFF;
+  text-color-internal: #000000;
   caption: '{name}';
   font-size: 10px;
 }
 
 node.attribute {
   diameter: 100px;
-  color: #008800;
+  color: #2ab7ca;
   border-color: #FFFFFF;
-  text-color-internal: #FFFFFF;
+  text-color-internal: #000000;
   caption: '{name}';
   font-size: 10px;
 }
 
 node.Query {
   diameter: 100px;
-  color: #aebd38;
+  color: #fed766;
   border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
@@ -128,7 +128,7 @@ node.Query {
 
 node.query {
   diameter: 100px;
-  color: #aebd38;
+  color: #fed766;
   border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
@@ -137,7 +137,7 @@ node.query {
 
 node.Schema {
   diameter: 100px;
-  color: #ffffff;
+  color: #e6e6ea;
   border-color: #000000;
   text-color-internal: #000000;
   caption: '{name}';
@@ -146,7 +146,7 @@ node.Schema {
 
 node.schema {
   diameter: 100px;
-  color: #ffffff;
+  color: #e6e6ea;
   border-color: #000000;
   text-color-internal: #000000;
   caption: '{name}';
@@ -155,7 +155,7 @@ node.schema {
 
 node.view {
   diameter: 100px;
-  color: #000055;
+  color: #f4f4f8;
   border-color: #000000;
   text-color-internal: #000000;
   caption: '{name}';
@@ -164,7 +164,7 @@ node.view {
 
 node.etl_step {
   diameter: 100px;
-  color: #005555;
+  color: #f6abb6;
   border-color: #000000;
   text-color-internal: #000000;
   caption: '{stepname}';
