@@ -163,7 +163,7 @@ node.view {
 
 node.etl_step {
   diameter: 125px;
-  color: #00AAAA;
+  color: #005555;
   border-color: #000000;
   text-color-internal: #000000;
   caption: '{stepname}';
