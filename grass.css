@@ -71,7 +71,8 @@ node.Affected_Attribute {
   diameter: 100px;
   color: #505160;
   border-color: #FFFFFF;
-  text-color-internal: #FFFFFF;
+  text-color-in
+  ternal: #FFFFFF;
   caption: '{name}';
 }
 node.affected_attribute {
@@ -82,7 +83,7 @@ node.affected_attribute {
   caption: '{name}';
 }
 node.Table {
-  diameter: 125px;
+  diameter: 100px;
   color: #598234;
   border-color: #ffffff;
   text-color-internal: #000000;
@@ -90,7 +91,7 @@ node.Table {
   font-size: 12px;
 }
 node.table {
-  diameter: 125px;
+  diameter: 100px;
   color: #598234;
   border-color: #ffffff;
   text-color-internal: #000000;
@@ -117,7 +118,7 @@ node.attribute {
 }
 
 node.Query {
-  diameter: 125px;
+  diameter: 100px;
   color: #aebd38;
   border-color: #FFFFFF;
   text-color-internal: #000000;
@@ -126,7 +127,7 @@ node.Query {
 }
 
 node.query {
-  diameter: 125px;
+  diameter: 100px;
   color: #aebd38;
   border-color: #FFFFFF;
   text-color-internal: #000000;
@@ -135,7 +136,7 @@ node.query {
 }
 
 node.Schema {
-  diameter: 125px;
+  diameter: 100px;
   color: #ffffff;
   border-color: #000000;
   text-color-internal: #000000;
@@ -144,7 +145,7 @@ node.Schema {
 }
 
 node.schema {
-  diameter: 125px;
+  diameter: 100px;
   color: #ffffff;
   border-color: #000000;
   text-color-internal: #000000;
@@ -153,7 +154,7 @@ node.schema {
 }
 
 node.view {
-  diameter: 125px;
+  diameter: 100px;
   color: #000055;
   border-color: #000000;
   text-color-internal: #000000;
@@ -162,8 +163,8 @@ node.view {
 }
 
 node.etl_step {
-  diameter: 125px;
-  color: #00AAAA;
+  diameter: 100px;
+  color: #005555;
   border-color: #000000;
   text-color-internal: #000000;
   caption: '{stepname}';
