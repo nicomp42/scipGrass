@@ -155,7 +155,7 @@ node.schema {
 
 node.view {
   diameter: 100px;
-  color: #990000;
+  color: #FFCCCB;
   border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
@@ -164,7 +164,7 @@ node.view {
 
 node.etl_step {
   diameter: 100px;
-  color: #0000CC;
+  color: #ADCAE6;
   border-color: #000000;
   text-color-internal: #FFFFFF;
   caption: '{stepname}';
