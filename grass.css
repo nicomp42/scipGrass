@@ -110,7 +110,7 @@ node.Attribute {
 
 node.attribute {
   diameter: 100px;
-  color: #2ab7ca;
+  color: #FFF380;
   border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
@@ -146,7 +146,7 @@ node.Schema {
 
 node.schema {
   diameter: 100px;
-  color: #e6e6ea;
+  color: #FFFFFF;
   border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
@@ -155,8 +155,8 @@ node.schema {
 
 node.view {
   diameter: 100px;
-  color: #005b96;
-  border-color: #000000;
+  color: #990000;
+  border-color: #FFFFFF;
   text-color-internal: #000000;
   caption: '{name}';
   font-size: 12px;
@@ -164,9 +164,9 @@ node.view {
 
 node.etl_step {
   diameter: 100px;
-  color: #f6abb6;
+  color: #0000CC;
   border-color: #000000;
-  text-color-internal: #000000;
+  text-color-internal: #FFFFFF;
   caption: '{stepname}';
   font-size: 12px;
 }
